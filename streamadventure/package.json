@@ -1,0 +1,19 @@
+{
+  "name": "streamadventure",
+  "version": "0.0.0",
+  "description": "Doing the exercises 'stream-adventure' of NodeSchool",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "nodeschool",
+    "stream"
+  ],
+  "author": "DjebbZ",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "~0.6.3"
+  }
+}
