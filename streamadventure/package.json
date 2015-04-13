@@ -14,6 +14,15 @@
   "author": "DjebbZ",
   "license": "MIT",
   "dependencies": {
-    "through2": "~0.6.3"
+    "bl": "^0.9.4",
+    "concat-stream": "^1.4.8",
+    "duplexer": "^0.1.1",
+    "duplexer2": "0.0.2",
+    "hyperquest": "^1.0.1",
+    "split": "^0.3.3",
+    "stream-combiner": "^0.2.1",
+    "through2": "~0.6.3",
+    "trumpet": "^1.7.1",
+    "websocket-stream": "^1.5.0"
   }
 }
