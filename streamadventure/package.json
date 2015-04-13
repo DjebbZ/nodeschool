@@ -23,6 +23,7 @@
     "stream-combiner": "^0.2.1",
     "through2": "~0.6.3",
     "trumpet": "^1.7.1",
-    "websocket-stream": "^1.5.0"
+    "websocket-stream": "^1.5.0",
+    "tar": "~2.0.1"
   }
 }
